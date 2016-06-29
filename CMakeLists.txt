@@ -27,5 +27,4 @@ endif ()
 
 target_link_libraries (OpenCL ${CMAKE_DL_LIBS})
 
-enable_testing()
-add_subdirectory (test)
+
